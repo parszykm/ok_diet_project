@@ -6,6 +6,7 @@ from matplotlib import pyplot as plt
 import numpy as np
 import json
 import itertools
+import statistics
 
 def sched_diet_generator(meals_list, macro, wages, meals_schedule, days):
     menu = []
@@ -143,7 +144,7 @@ def greedy_diet_generator(meals_list, macro, wages, meals_schedule, days):
 
 
 def algo_type_choice(meals_list, macro, wages, meals_schedule):
-    days = 5
+    days = 10
     #ch = 2
     for ch in range(1, 5):
         if ch == 1:
@@ -159,7 +160,7 @@ def algo_type_choice(meals_list, macro, wages, meals_schedule):
             d4=sched_diet_generator_2(meals_list,macro, wages, meals_schedule, days)[0]
     return [d1,d2,d3,d4]
 def algo_type_choice_factors(meals_list, macro, wages, meals_schedule):
-    days = 5
+    days = 10
     #ch = 2
     for ch in range(1, 5):
         if ch == 1:
@@ -176,7 +177,7 @@ def algo_type_choice_factors(meals_list, macro, wages, meals_schedule):
             
     return [d1,d2,d3,d4]
 def res_macros_type_choice(meals_list, macro, wages, meals_schedule):
-    days = 5
+    days = 10
     return sched_diet_generator_2(meals_list,macro, wages, meals_schedule, days)[2]
         
             
@@ -269,7 +270,7 @@ if __name__ == '__main__':
         break
     variants_ret=copy.deepcopy(variants)
     day_macros=[]
-    days_num=5
+    days_num=10
     lc=0
     for x in variants:
         
@@ -298,10 +299,13 @@ if __name__ == '__main__':
     #     print(x)
     print()
     avg_factors=[]
+    print("\n\nfactors\n\n",l_factors,"")
     for x in l_factors:
         tmp_avg_factors=[]
+        print(len(x))
         for i in range(days_num):
-            tmp_avg_factors.append(average(x[i*days_num:(i+1)*days_num]))
+            print(i*days_num,(i+1)*days_num)
+            tmp_avg_factors.append(statistics.mean(x[i*meals_num:(i+1)*meals_num]))
         avg_factors.append(tmp_avg_factors)
     reserve_variant=variants.pop(3)
     reserve_variant_factors=avg_factors.pop(3)
@@ -383,7 +387,7 @@ if __name__ == '__main__':
         plt.legend(loc='center left', bbox_to_anchor=(1, 0.5))
         plt.tight_layout()    
         
-    # plt.show()
+    plt.show()
     json_data=[]
     variants_ret_2=[]
     tmp=0

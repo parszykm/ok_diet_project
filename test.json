@@ -8,92 +8,92 @@
                     "name": "Day1",
                     "children": [
                         {
-                            "name": 5488,
-                            "size": 182,
+                            "name": 1824,
+                            "size": 156,
                             "children": [
                                 {
-                                    "name": "proteins\n111",
-                                    "size": 111
+                                    "name": "proteins\n93",
+                                    "size": 93
                                 },
                                 {
-                                    "name": "fats\n49",
-                                    "size": 49
+                                    "name": "fats\n21",
+                                    "size": 21
                                 },
                                 {
-                                    "name": "carbs\n22",
-                                    "size": 22
-                                }
-                            ]
-                        },
-                        {
-                            "name": 4591,
-                            "size": 161,
-                            "children": [
-                                {
-                                    "name": "proteins\n54",
-                                    "size": 54
-                                },
-                                {
-                                    "name": "fats\n32",
-                                    "size": 32
-                                },
-                                {
-                                    "name": "carbs\n75",
-                                    "size": 75
-                                }
-                            ]
-                        },
-                        {
-                            "name": 8386,
-                            "size": 154,
-                            "children": [
-                                {
-                                    "name": "proteins\n42",
+                                    "name": "carbs\n42",
                                     "size": 42
-                                },
-                                {
-                                    "name": "fats\n37",
-                                    "size": 37
-                                },
-                                {
-                                    "name": "carbs\n75",
-                                    "size": 75
                                 }
                             ]
                         },
                         {
-                            "name": 9924,
-                            "size": 169,
+                            "name": 3306,
+                            "size": 89,
                             "children": [
                                 {
-                                    "name": "proteins\n112",
-                                    "size": 112
+                                    "name": "proteins\n31",
+                                    "size": 31
+                                },
+                                {
+                                    "name": "fats\n23",
+                                    "size": 23
+                                },
+                                {
+                                    "name": "carbs\n35",
+                                    "size": 35
+                                }
+                            ]
+                        },
+                        {
+                            "name": 5268,
+                            "size": 158,
+                            "children": [
+                                {
+                                    "name": "proteins\n72",
+                                    "size": 72
+                                },
+                                {
+                                    "name": "fats\n19",
+                                    "size": 19
+                                },
+                                {
+                                    "name": "carbs\n67",
+                                    "size": 67
+                                }
+                            ]
+                        },
+                        {
+                            "name": 5127,
+                            "size": 100,
+                            "children": [
+                                {
+                                    "name": "proteins\n17",
+                                    "size": 17
                                 },
                                 {
                                     "name": "fats\n36",
                                     "size": 36
                                 },
                                 {
-                                    "name": "carbs\n21",
-                                    "size": 21
+                                    "name": "carbs\n47",
+                                    "size": 47
                                 }
                             ]
                         },
                         {
-                            "name": 6312,
-                            "size": 86,
+                            "name": 2765,
+                            "size": 255,
                             "children": [
                                 {
-                                    "name": "proteins\n16",
-                                    "size": 16
+                                    "name": "proteins\n137",
+                                    "size": 137
                                 },
                                 {
-                                    "name": "fats\n34",
-                                    "size": 34
+                                    "name": "fats\n48",
+                                    "size": 48
                                 },
                                 {
-                                    "name": "carbs\n36",
-                                    "size": 36
+                                    "name": "carbs\n70",
+                                    "size": 70
                                 }
                             ]
                         }
@@ -103,92 +103,92 @@
                     "name": "Day2",
                     "children": [
                         {
-                            "name": 1808,
-                            "size": 119,
+                            "name": 1023,
+                            "size": 218,
                             "children": [
                                 {
-                                    "name": "proteins\n15",
-                                    "size": 15
+                                    "name": "proteins\n150",
+                                    "size": 150
                                 },
                                 {
-                                    "name": "fats\n38",
-                                    "size": 38
+                                    "name": "fats\n13",
+                                    "size": 13
                                 },
                                 {
-                                    "name": "carbs\n66",
-                                    "size": 66
+                                    "name": "carbs\n55",
+                                    "size": 55
                                 }
                             ]
                         },
                         {
-                            "name": 6286,
-                            "size": 165,
+                            "name": 5503,
+                            "size": 136,
                             "children": [
                                 {
-                                    "name": "proteins\n76",
-                                    "size": 76
+                                    "name": "proteins\n22",
+                                    "size": 22
                                 },
                                 {
-                                    "name": "fats\n21",
-                                    "size": 21
+                                    "name": "fats\n49",
+                                    "size": 49
                                 },
                                 {
-                                    "name": "carbs\n68",
-                                    "size": 68
+                                    "name": "carbs\n65",
+                                    "size": 65
                                 }
                             ]
                         },
                         {
-                            "name": 8557,
-                            "size": 137,
+                            "name": 2527,
+                            "size": 156,
                             "children": [
                                 {
-                                    "name": "proteins\n28",
-                                    "size": 28
+                                    "name": "proteins\n48",
+                                    "size": 48
                                 },
                                 {
-                                    "name": "fats\n41",
-                                    "size": 41
+                                    "name": "fats\n50",
+                                    "size": 50
                                 },
                                 {
-                                    "name": "carbs\n68",
-                                    "size": 68
+                                    "name": "carbs\n58",
+                                    "size": 58
                                 }
                             ]
                         },
                         {
-                            "name": 2069,
-                            "size": 189,
+                            "name": 1698,
+                            "size": 127,
                             "children": [
                                 {
-                                    "name": "proteins\n104",
-                                    "size": 104
+                                    "name": "proteins\n25",
+                                    "size": 25
                                 },
                                 {
-                                    "name": "fats\n47",
-                                    "size": 47
+                                    "name": "fats\n33",
+                                    "size": 33
                                 },
                                 {
-                                    "name": "carbs\n38",
-                                    "size": 38
+                                    "name": "carbs\n69",
+                                    "size": 69
                                 }
                             ]
                         },
                         {
-                            "name": 7093,
-                            "size": 235,
+                            "name": 3927,
+                            "size": 210,
                             "children": [
                                 {
-                                    "name": "proteins\n145",
-                                    "size": 145
+                                    "name": "proteins\n125",
+                                    "size": 125
                                 },
                                 {
-                                    "name": "fats\n27",
-                                    "size": 27
+                                    "name": "fats\n45",
+                                    "size": 45
                                 },
                                 {
-                                    "name": "carbs\n63",
-                                    "size": 63
+                                    "name": "carbs\n40",
+                                    "size": 40
                                 }
                             ]
                         }
@@ -198,52 +198,34 @@
                     "name": "Day3",
                     "children": [
                         {
-                            "name": 4047,
-                            "size": 160,
+                            "name": 1901,
+                            "size": 137,
                             "children": [
                                 {
-                                    "name": "proteins\n114",
-                                    "size": 114
+                                    "name": "proteins\n49",
+                                    "size": 49
                                 },
                                 {
-                                    "name": "fats\n15",
-                                    "size": 15
+                                    "name": "fats\n20",
+                                    "size": 20
                                 },
                                 {
-                                    "name": "carbs\n31",
-                                    "size": 31
+                                    "name": "carbs\n68",
+                                    "size": 68
                                 }
                             ]
                         },
                         {
-                            "name": 1541,
-                            "size": 128,
+                            "name": 7468,
+                            "size": 171,
                             "children": [
                                 {
-                                    "name": "proteins\n51",
-                                    "size": 51
+                                    "name": "proteins\n117",
+                                    "size": 117
                                 },
                                 {
-                                    "name": "fats\n35",
-                                    "size": 35
-                                },
-                                {
-                                    "name": "carbs\n42",
-                                    "size": 42
-                                }
-                            ]
-                        },
-                        {
-                            "name": 8608,
-                            "size": 106,
-                            "children": [
-                                {
-                                    "name": "proteins\n61",
-                                    "size": 61
-                                },
-                                {
-                                    "name": "fats\n25",
-                                    "size": 25
+                                    "name": "fats\n34",
+                                    "size": 34
                                 },
                                 {
                                     "name": "carbs\n20",
@@ -252,20 +234,38 @@
                             ]
                         },
                         {
-                            "name": 9288,
-                            "size": 217,
+                            "name": 8444,
+                            "size": 172,
                             "children": [
                                 {
-                                    "name": "proteins\n116",
-                                    "size": 116
+                                    "name": "proteins\n109",
+                                    "size": 109
                                 },
                                 {
-                                    "name": "fats\n50",
-                                    "size": 50
+                                    "name": "fats\n33",
+                                    "size": 33
                                 },
                                 {
-                                    "name": "carbs\n51",
-                                    "size": 51
+                                    "name": "carbs\n30",
+                                    "size": 30
+                                }
+                            ]
+                        },
+                        {
+                            "name": 5748,
+                            "size": 173,
+                            "children": [
+                                {
+                                    "name": "proteins\n115",
+                                    "size": 115
+                                },
+                                {
+                                    "name": "fats\n18",
+                                    "size": 18
+                                },
+                                {
+                                    "name": "carbs\n40",
+                                    "size": 40
                                 }
                             ]
                         },
@@ -293,48 +293,125 @@
                     "name": "Day4",
                     "children": [
                         {
-                            "name": 2654,
-                            "size": 248,
+                            "name": 6124,
+                            "size": 182,
                             "children": [
                                 {
-                                    "name": "proteins\n140",
-                                    "size": 140
+                                    "name": "proteins\n64",
+                                    "size": 64
                                 },
                                 {
-                                    "name": "fats\n42",
-                                    "size": 42
+                                    "name": "fats\n49",
+                                    "size": 49
                                 },
                                 {
-                                    "name": "carbs\n66",
-                                    "size": 66
+                                    "name": "carbs\n69",
+                                    "size": 69
                                 }
                             ]
                         },
                         {
-                            "name": 1244,
-                            "size": 220,
+                            "name": 3776,
+                            "size": 237,
                             "children": [
                                 {
-                                    "name": "proteins\n148",
-                                    "size": 148
+                                    "name": "proteins\n121",
+                                    "size": 121
                                 },
                                 {
-                                    "name": "fats\n48",
+                                    "name": "fats\n41",
+                                    "size": 41
+                                },
+                                {
+                                    "name": "carbs\n75",
+                                    "size": 75
+                                }
+                            ]
+                        },
+                        {
+                            "name": 2195,
+                            "size": 149,
+                            "children": [
+                                {
+                                    "name": "proteins\n78",
+                                    "size": 78
+                                },
+                                {
+                                    "name": "fats\n23",
+                                    "size": 23
+                                },
+                                {
+                                    "name": "carbs\n48",
                                     "size": 48
-                                },
-                                {
-                                    "name": "carbs\n24",
-                                    "size": 24
                                 }
                             ]
                         },
                         {
-                            "name": 9285,
-                            "size": 97,
+                            "name": 3703,
+                            "size": 231,
                             "children": [
                                 {
-                                    "name": "proteins\n14",
-                                    "size": 14
+                                    "name": "proteins\n141",
+                                    "size": 141
+                                },
+                                {
+                                    "name": "fats\n41",
+                                    "size": 41
+                                },
+                                {
+                                    "name": "carbs\n49",
+                                    "size": 49
+                                }
+                            ]
+                        },
+                        {
+                            "name": 7462,
+                            "size": 142,
+                            "children": [
+                                {
+                                    "name": "proteins\n56",
+                                    "size": 56
+                                },
+                                {
+                                    "name": "fats\n28",
+                                    "size": 28
+                                },
+                                {
+                                    "name": "carbs\n58",
+                                    "size": 58
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Day5",
+                    "children": [
+                        {
+                            "name": 5117,
+                            "size": 129,
+                            "children": [
+                                {
+                                    "name": "proteins\n55",
+                                    "size": 55
+                                },
+                                {
+                                    "name": "fats\n40",
+                                    "size": 40
+                                },
+                                {
+                                    "name": "carbs\n34",
+                                    "size": 34
+                                }
+                            ]
+                        },
+                        {
+                            "name": 5144,
+                            "size": 194,
+                            "children": [
+                                {
+                                    "name": "proteins\n111",
+                                    "size": 111
                                 },
                                 {
                                     "name": "fats\n20",
@@ -347,133 +424,56 @@
                             ]
                         },
                         {
-                            "name": 1041,
-                            "size": 150,
+                            "name": 3526,
+                            "size": 174,
                             "children": [
                                 {
-                                    "name": "proteins\n39",
-                                    "size": 39
+                                    "name": "proteins\n96",
+                                    "size": 96
                                 },
                                 {
-                                    "name": "fats\n50",
-                                    "size": 50
+                                    "name": "fats\n24",
+                                    "size": 24
                                 },
                                 {
-                                    "name": "carbs\n61",
-                                    "size": 61
+                                    "name": "carbs\n54",
+                                    "size": 54
                                 }
                             ]
                         },
                         {
-                            "name": 3514,
-                            "size": 138,
+                            "name": 9172,
+                            "size": 92,
                             "children": [
                                 {
-                                    "name": "proteins\n53",
-                                    "size": 53
-                                },
-                                {
-                                    "name": "fats\n45",
-                                    "size": 45
-                                },
-                                {
-                                    "name": "carbs\n40",
-                                    "size": 40
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Day5",
-                    "children": [
-                        {
-                            "name": 6213,
-                            "size": 121,
-                            "children": [
-                                {
-                                    "name": "proteins\n75",
-                                    "size": 75
-                                },
-                                {
-                                    "name": "fats\n17",
+                                    "name": "proteins\n17",
                                     "size": 17
                                 },
                                 {
-                                    "name": "carbs\n29",
-                                    "size": 29
+                                    "name": "fats\n43",
+                                    "size": 43
+                                },
+                                {
+                                    "name": "carbs\n32",
+                                    "size": 32
                                 }
                             ]
                         },
                         {
-                            "name": 1953,
-                            "size": 183,
+                            "name": 4680,
+                            "size": 209,
                             "children": [
                                 {
-                                    "name": "proteins\n75",
-                                    "size": 75
+                                    "name": "proteins\n115",
+                                    "size": 115
                                 },
                                 {
-                                    "name": "fats\n29",
-                                    "size": 29
-                                },
-                                {
-                                    "name": "carbs\n79",
-                                    "size": 79
-                                }
-                            ]
-                        },
-                        {
-                            "name": 9302,
-                            "size": 161,
-                            "children": [
-                                {
-                                    "name": "proteins\n80",
-                                    "size": 80
-                                },
-                                {
-                                    "name": "fats\n18",
-                                    "size": 18
-                                },
-                                {
-                                    "name": "carbs\n63",
-                                    "size": 63
-                                }
-                            ]
-                        },
-                        {
-                            "name": 4142,
-                            "size": 233,
-                            "children": [
-                                {
-                                    "name": "proteins\n145",
-                                    "size": 145
-                                },
-                                {
-                                    "name": "fats\n26",
-                                    "size": 26
+                                    "name": "fats\n32",
+                                    "size": 32
                                 },
                                 {
                                     "name": "carbs\n62",
                                     "size": 62
-                                }
-                            ]
-                        },
-                        {
-                            "name": 3502,
-                            "size": 87,
-                            "children": [
-                                {
-                                    "name": "proteins\n31",
-                                    "size": 31
-                                },
-                                {
-                                    "name": "fats\n18",
-                                    "size": 18
-                                },
-                                {
-                                    "name": "carbs\n38",
-                                    "size": 38
                                 }
                             ]
                         }
